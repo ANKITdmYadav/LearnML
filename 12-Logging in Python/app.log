@@ -1,0 +1,6 @@
+2025-06-08 19:43:00 - root - DEBUG - this is a debug message
+2025-06-08 19:43:00 - root - INFO - this is a info msg
+2025-06-08 19:43:00 - root - WARNING - this is a warning
+2025-06-08 19:43:00 - root - ERROR - this is an error
+2025-06-08 19:43:00 - root - CRITICAL - this is a critical message
+2025-06-08 19:44:19 - root - ERROR - error 404 not found
